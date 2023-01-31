@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+        <style>
+            body {
+                background-color:rgb(255, 253, 227);
+                font-family: cursive;
+            }
+            p {
+                color:rgb(181,131,94);
+                line-height:1em;
+                font-size:13px;
+            }
+            .heading{
+                color:rgb(181,131,140);
+                font-family:monospace;
+            }
+            #importance {
+                 font-style:italic;
+                font-weight:bold;
+            } 
+        </style>
+    </head>
+    <body>
+        
+        <h1 class="heading">Welly's blog</h1>
+
+        <h3 class="heading">Contents</h3>
+        <ul>
+            <a href="#content-1"><li>Why I liked programming</li></a>
+            <a href="#content-2"><li> What program languages i am learning?</li></a>
+        </ul>
+        
+        <h2 id="content-1" class="heading"> Why I liked programming </h2>
+        
+        <p>I love computer programming because I love challenges and I like to solve complex problems. I love computer programming because it's give me the power to create something out of nothing by just typing some code </p>
+        
+        <h2 id="content-2" class="heading"> What program languages i am learning?</h2>
+        <p>I’m currently a freshman right now, and I've jumped into <em> C programming</em> as my first language and I taught myself <em>C/C++</em>.When I first got into <em> C</em>, I thought programming was just something like this; Hard to comprehend/understand at first, but when you get the hang of it, you get really good at it, like everything else.</p>
+<p>However, I read a book on<em> C (which was….pretty terrible) </em> and didn't understand most of it.I didn't finish the book, because it was torturing me and I lost almost all love for computers and programming.</p>
+<p>So I went on a hiatus for 2 months, but in the beginning of November, I started going through C again, this time utilizing the internet. Surprisingly, It was pretty fun, and I learned a lot about <em> C </em> and computers!</p>
+<p id="importance"> I also got to a level where I made Atari Breakout and <em> Pong games </em> and programs for my parents’ company. However, I actually also started with <em> Python </em> while quitting the hiatus.</p>      
+    </body>
+    </html>

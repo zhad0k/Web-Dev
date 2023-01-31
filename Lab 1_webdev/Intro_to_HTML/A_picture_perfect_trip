@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Spin-off of "Challenge: A picture-perfect trip"</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>The perfect trip</h1>
+        
+        <p>I would see scenes like a beach </p>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-waves-at-sunset.png" alt="Sunset time of wavy ocean" width="175">
+        <p>And see animals like kangaroos </p>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/animals/kangaroos.png" alt="two kangaroo on grass which is lying down  and standing which is looking beside " width="175">
+        <p>And eat food like cake  </p>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/cake.png" alt="food like cake with milk cream with fruit inside jam " width="175">
+    </body>
+</html>

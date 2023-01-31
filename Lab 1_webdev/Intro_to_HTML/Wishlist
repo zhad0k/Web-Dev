@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Spin-off of "Challenge: Wishlist"</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+    <h1>Wishlist</h1>
+        <h2>What i want to do</h2>
+        <ol>
+            <li>drive a car </li>
+            <li>travel around world</li>
+            <li>go to shopping</li>
+        </ol>
+        <h3>Things i want to have</h3>
+        <ul>
+            <li>motorbike</li>
+            <li>an exotic car</li>
+        </ul>
+    </body>
+</html>

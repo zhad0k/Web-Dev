@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Spin-off of "Project: Travel webpage"</title>
+        <style>
+           h2{
+               color: green;
+           } 
+           h3{
+               color:rgb(224, 130, 29);
+           }
+           body{
+               background-color:rgb(254, 255, 229);
+           }
+           #beach-c{
+               background-color:rgb(178, 237, 255);
+           }
+            .BEACH{
+                background-color:rgb(212, 255, 168);
+            }
+            .BEACH{
+                background-color:rgb(212, 255, 168);
+            }
+        </style>
+    </head>
+    <body>
+    
+        <h1>Travel to beach</h1>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach.png" width="250">
+  <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-waves-daytime.png" width="250">
+          <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-in-hawaii.png" width="250">
+        <h2> List of things to see</h2>
+        <ul>
+            <li> the big ship </li>
+            <li> parachute
+        </ul>
+        <h3>Places to go</h3>
+        <ol>
+            <li>the 5 top restaurant </li>
+            <li>private island</li> 
+        </ol>
+        
+        <h4 id="beach-c">Basic info</h4>
+        <p class="BEACH">Typical of Southern California beaches, the weather is balmy, and the water is warm enough for swimming. The ocean conditions are also conducive to surfing, kiteboarding, and windsurfing.</p>
+
+<p class="BEACH">One of San Diego's best beaches, Pacific Beach has lifeguards (on duty year-round daily from 9am until dusk), public restrooms, and showers, and the oceanfront property is dotted with casual restaurants, taco shops, and cafés. 
+ </p>
+    </body>
+</html>
+

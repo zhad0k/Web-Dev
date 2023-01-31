@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Spin-off of "Challenge: The dinner table"</title>
+    </head>
+    <body>
+    
+        <h1>Our dinner menu</h1>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Meal</th>
+                    <th>Ingredients</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody>
+            
+            <tr>
+            <td>spaghetti</td> 
+            <td>onion,cloves,garlic,olive</td>
+            <td>10$-20$</td>
+            </tr>
+                        <tr>
+            <td>pasta</td> 
+            <td>cheese,cloves,garlic,olive </td>
+            <td>10$-20$</td>
+            </tr>
+                        <tr>
+            <td>cake</td> 
+            <td>milk,choclate,flour
+            <td>10$-15$</td>
+            </tr>
+            </tbody>
+        </table>
+
+    </body>
+</html>

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Spin-off of "Project: Recipe book"</title>
+        <meta charset="utf-8">
+        <style>
+        h2 {
+            color:orange;
+        }
+        .len {
+            background-color:rgb(255, 207, 255);
+        }
+        </style>
+    </head>
+    
+     <tbody>
+       
+        <h1>Welly's Recipe Book</h1>
+        
+        <h2 class="heading">Contents:</h2>
+        
+        <ol>
+            <li><a href="#Lentil-recipe1">Lentil soup1</a></li>
+             <li><a href="#Lentil-recipe2">Lentil soup2</a></li>
+        </ol>
+        
+       
+         <h2 class="heading" id="Lentil-recipe1">Lentil soup1</h2>
+       <p class="len"><strong>STEP 1:</strong>
+Heat the stock in a large pan and add the lentils. Bring to the boil and allow the lentils to soften for a few minutes.
+</p>
+<p><strong>STEP 2:</strong>
+Add the carrots and leeks, and season (don't add salt if you use ham stock as it will make it too salty). Bring to the boil, then reduce the heat, cover and simmer for 45 mins-1 hr until the lentils have broken down. Scatter over the parsley and serve with buttered bread, if you like.
+</p>
+
+        <ul>
+            <li>Time: 1 hr</li>
+            <li>Serves: 4</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+
+            <tr>
+              <td> red lentils </td>
+                 <td> 1piece</td>
+            </tr>
+            <tr>
+              <td> carrots  </td>
+                 <td> 6piece</td>
+            </tr>
+            <tr>
+              <td> leeks  </td>
+                 <td> 2piece   </td>
+            </tr>
+
+         </tbody>
+        </table>
+         <h2 class="heading" id="Lentil-recipe2 ">Lentil soup2</h2>
+       <p class="len"><strong>STEP 1:</strong>
+Heat the stock in a large pan and add the lentils. Bring to the boil and allow the lentils to soften for a few minutes.
+</p>
+<p><strong>STEP 2:</strong>
+Add the carrots and leeks, and season (don't add salt if you use ham stock as it will make it too salty). Bring to the boil, then reduce the heat, cover and simmer for 45 mins-1 hr until the lentils have broken down. Scatter over the parsley and serve with buttered bread, if you like.
+</p>
+      <ul>
+            <li>Time: 1 hr</li>
+            <li>Serves: 4</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+
+            <tr>
+              <td> red lentils </td>
+                 <td> 1piece</td>
+            </tr>
+            <tr>
+              <td> carrots  </td>
+                 <td> 6piece</td>
+            </tr>
+            <tr>
+              <td> leeks  </td>
+                 <td> 2piece   </td>
+            </tr>
+  </tbody>
+        </table>
+    <p><em>Source: <a href="https://www.bbcgoodfood.com/recipes">Some recipes websites</a></em></p>
+
+   </tbody>
+</html>
