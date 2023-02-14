@@ -1,0 +1,2 @@
+//use the uppercase for BIRTHDAY is right because it is written hardly ,and do not get confused
+//and to the AGE the lowercase written satisfy cause the year is changing so the age also change but the age stay const
