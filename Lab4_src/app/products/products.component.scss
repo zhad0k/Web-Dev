@@ -1,0 +1,84 @@
+.products {
+  display: flex;
+  flex-direction: column;
+  row-gap: 24px;
+  padding: 16px 48px;
+
+  &_name {
+    font-family: sans-serif;
+    font-size: 34px;
+    font-weight: 700;
+
+  }
+
+  &_container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    row-gap: 24px;
+    column-gap: 24px;
+  }
+
+  &_item {
+    width: 400px;
+    border: 1px solid black;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 12px;
+
+    &_name {
+      font-family: sans-serif;
+      font-size: 16px;
+      font-weight: 700;
+    }
+
+    &_image {
+      width: 100px;
+      height: 150px;
+    }
+
+    &_desc {
+      font-family: sans-serif;
+      font-size: 16px;
+      font-weight: 700;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      height: 40px;
+    }
+
+    &_raiting {
+      font-family: sans-serif;
+      font-size: 16px;
+      font-weight: 700;
+    }
+
+    &_galery {
+      display: flex;
+      flex-direction: row;
+      column-gap: 24px;
+      margin-top: auto;
+      border-top: 1px solid black;
+      padding: 8px;
+
+      &_img {
+        width: 50px;
+        height: 75px;
+        border: 2px solid red;
+      }
+    }
+
+    &_share {
+      background-color: green;
+      padding: 16px 24px;
+      border: none;
+      border-radius: 12px;
+      margin-top: auto;
+      font-weight: 700;
+      font-size: 16px;
+      color: #FFFFFF;
+      font-family: sans-serif;
+    }
+  }
+}
