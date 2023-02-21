@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  padding: 16px 24px;
+  background-color: #ff0000;
+
+  &_logo {
+    font-size: 48px;
+    font-family: sans-serif;
+    font-weight: 700;
+    color: #FFFFFF;
+  }
+}
+
